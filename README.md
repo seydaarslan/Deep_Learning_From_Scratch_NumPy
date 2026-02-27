@@ -1,2 +1,4 @@
-# Deep_Learning_From_Scratch_NumPy
-This project aims to explore the fundamental mathematical principles behind Multi-Layer Perceptron (MLP) and Support Vector Machines (SVM - Pegasos) algorithms, which are core components of modern deep learning libraries.
+# Deep Learning From Scratch NumPy
+(TR) Bu projenin amacı, modern derin öğrenme kütüphanelerinden olan Çok Katmanlı Algılayıcı (MLP) ve Destek Vektör Makineleri (SVM - Pegasos) algoritmalarının arkasındaki matematiksel süreçleri anlamaktır. Bu amaç doğrultusunda PyTorch ve TensorFlow gibi modern derin öğrenme kütüphaneleri yerine sadece NumPy kullanılarak bu iki algoritma kodlanmıştır. Bu modeller, HIGGS veri seti ve RCV1/Reuters veri seti üzerinde test edilmiş ve sonuçlar görselleştirilmiştir.
+
+(ENG) The objective of this project is to understand the mathematical processes underlying Multi-Layer Perceptron (MLP) and Support Vector Machines (SVM - Pegasos) algorithms. To achieve this, both algorithms were implemented from scratch using only NumPy, rather than modern deep learning libraries such as PyTorch or TensorFlow. The models were tested on the HIGGS and RCV1/Reuters datasets, and the results were visualized.
